@@ -183,3 +183,6 @@ Hello! I'm **Shambhavi Shukla**, a Forensic Science student passionate about und
 **CRAFTED WITH SCIENCE & CURIOSITY BY SHAMBHAVI SHUKLA**
 
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shamshukla09/shamshukla09/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake">
+</div>
