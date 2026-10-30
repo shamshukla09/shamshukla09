@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="./profile.jpg" width="180"
-       style="border-radius:50%;" alt="Shambhavi's Photo">
-</div>
+
 <div align="center">
 
 <!-- PINK RESPONSIVE HEADER -->
