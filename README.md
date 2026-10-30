@@ -184,5 +184,16 @@ Hello! I'm **Shambhavi Shukla**, a Forensic Science student passionate about und
 
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shamshukla09/shamshukla09/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake">
+ <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101014,50:9D4EDD,100:FF69B4&height=120&section=footer&text=THE%20FORENSIC%20FILES&fontSize=28&fontColor=FFFFFF&animation=fadeIn" width="100%">
+
+### 🔬 OBSERVE • ANALYZE • DISCOVER
+
+**Every fingerprint tells a story. Every piece of evidence matters.**
+
+<img src="https://img.shields.io/badge/FORENSIC%20SCIENCE-EVIDENCE%20BASED-FF69B4?style=for-the-badge&labelColor=101014">
+
+<img src="https://img.shields.io/badge/DIGITAL%20FORENSICS-INVESTIGATING-9D4EDD?style=for-the-badge&labelColor=101014">
+
 </div>
